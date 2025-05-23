@@ -170,3 +170,10 @@ body{
     background-color: #cbd5e1;
     transform: translateY(-2px);
 }
+
+.footer{
+    background-color: #f1e293fb;
+    padding: 50px 0;
+    text-align: center;
+    color: #ffffff;
+}
